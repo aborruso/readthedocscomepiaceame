@@ -1,0 +1,33 @@
+site_name: twarc
+site_url: https://readthedocs.org/projects/twarc-project/
+site_description: Collect Twitter JSON data from the command line.
+
+repo_url: https://github.com/docnow/twarc
+repo_name: twarc
+edit_uri: edit/main/docs/
+
+theme:
+  name: "material"
+  logo: images/docnow.png
+  palette:
+    scheme: preference
+
+nav:
+  - Home: README.md
+  - twarc2: twarc2.md
+  - Plugins: plugins.md
+  - Twitter Developer Access: twitter-developer-access.md
+  - Windows 10: windows10.md
+  - Library API:
+    - api/client.md
+    - api/client2.md
+    - api/expansions.md
+
+plugins:
+- search
+- mkdocstrings
+
+markdown_extensions:
+- mkdocs-click
+- pymdownx.highlight
+- pymdownx.superfences
