@@ -4,7 +4,7 @@ site_description: Un altro bel tool per scrivere documentazione in Markdown
 
 repo_url: https://github.com/aborruso/readthedocscomepiaceame
 repo_name: readthedocscomepiaceame
-edit_uri: edit/main/docs/
+edit_uri: edit/master/docs/
 
 theme:
   name: "material"
