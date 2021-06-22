@@ -11,6 +11,7 @@ theme:
   logo: images/logo.png
   palette:
     scheme: preference
+  language: it
 
 nav:
   - Home: README.md
