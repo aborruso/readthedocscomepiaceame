@@ -1,14 +1,14 @@
-site_name: twarc
-site_url: https://readthedocs.org/projects/twarc-project/
-site_description: Collect Twitter JSON data from the command line.
+site_name: CosìMiPiace
+site_url: https://readthedocs.org/projects/readthedocscomepiaceame/
+site_description: Un altro bel tool per scrivere documentazione in Markdown
 
-repo_url: https://github.com/docnow/twarc
-repo_name: twarc
+repo_url: https://github.com/aborruso/readthedocscomepiaceame
+repo_name: readthedocscomepiaceame
 edit_uri: edit/main/docs/
 
 theme:
   name: "material"
-  logo: images/docnow.png
+  logo: images/logo.png
   palette:
     scheme: preference
 
